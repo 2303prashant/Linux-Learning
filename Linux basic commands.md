@@ -1,6 +1,6 @@
 ***Linux Commands***</br>
 *sudo apt update* --- Command to update the terminal </br>
-*sudo apt install "application name and version" --- To install a particular application </br>
+*sudo apt install "application name and version"* --- To install a particular application </br>
 *mkdir <dir_name>* --- To create a directory </br>
 *cd* --- this command is used to go inside a particular directory or folder </br>
 *cd ..* --- is used to back out from a particluar folder </br>
@@ -41,8 +41,8 @@ The *mv *command can also be used to rename a file, for that the syntax is -- **
 *ps* (Process  status) --- Used to provide the information about currently running processes.
 -------------------------->*ps -e* --- displays all process</br>
 -------------------------->*ps -f* --- give full listing of processes</br>
---------------------------->ps -u* --- filter by user</br>
-***Difference between the ps and  top commmands -*</br>
+--------------------------->*ps -u* --- filter by user</br>
+***Difference between the ps and  top commmands -****</br>
 ps - provides the static snapshots of the processes, whiile the top command updates its display continuously in real time</br>
 
 
